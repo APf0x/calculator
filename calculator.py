@@ -2,10 +2,6 @@ import time
 import os
 while True:
 # incoming features
-'''
-- to execute the circle, press 3 ;
-- to execute the rhombus, press 4;
-'''
 #if you find any errors plz contact me in some way i dont know how tho from now on i will explain what am i doing and how does it work.
 #logo: this is the logo of the programm
 #i put this while true just for restarting the program when it finishes go see at the end of the code for further info 
